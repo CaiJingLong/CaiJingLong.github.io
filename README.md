@@ -1,7 +1,7 @@
 # 个人主页
 
 ## 个人技能
-android:熟悉java/kotlin
+android:熟悉java/kotlin  
 ios:了解oc,熟悉swift
 
 ### android技能
