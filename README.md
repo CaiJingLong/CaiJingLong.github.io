@@ -2,7 +2,7 @@
 
 ## 个人技能
 android:熟悉java/kotlin  
-ios:了解oc,熟悉swift
+ios:了解oc,熟悉swift  
 web:react/react native
 
 ### android技能
