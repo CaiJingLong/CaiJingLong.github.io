@@ -3,7 +3,7 @@
 ## 个人技能
 android:熟悉java/kotlin  
 ios:了解oc,熟悉swift  
-web:react/react native
+web:react/react native  
 flutter:相关布局/控件/语法
 
 ### android技能
